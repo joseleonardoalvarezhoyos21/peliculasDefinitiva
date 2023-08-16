@@ -38,7 +38,7 @@ const contenido = [
   const busquedaInput = document.getElementById('busqueda');
   const contenidoFiltradoDiv = document.getElementById('contenedorFiltrado');
   
-  
+  // probando
   function filtrarContenido() {
     
     const tipoSeleccionado = tipoSelect.value;
